@@ -132,20 +132,11 @@ const infos = {
  'Nitrogen dioxide': '
 
   ',
- 'Sulphur dioxide': '
-  
-  ',
- 'Ozone': '
-  
-  ',
- 'Aerosol optical depth': '
-  
-  ',
- 'Dust': '
-  
-  ',
- 'UV index': '
-  '
+ 'Sulphur dioxide': '',
+ 'Ozone': '',
+ 'Aerosol optical depth': '',
+ 'Dust': '',
+ 'UV index': ''
 }
 
 
