@@ -189,7 +189,8 @@ const infos = {
  <br>
  <br> - Very Unhealthy: 150-200 µg/m³: Ozone levels exceeding 150 µg/m³ are pretty rare and are usually associated with higher temperatures and sunlight.
  <br>
- <br> - Hazardous: >200 µg/m³: Ozone levels rising above 200 µg/m³ is extremely rare, but may result from stagnant air masses, extreme heat, and high emissions of precursor pollutants, posing severe health risks.
+ <br> - Hazardous: >200 µg/m³: Ozone levels rising above 200 µg/m³ is extremely rare, but may result from stagnant air masses, extreme heat, and high emissions of precursor pollutants, 
+ <br>posing severe health risks.
  `,
  'Aerosol optical depth': `
       <b>AEROSOL OPTICAL DEPTH</b>
@@ -212,7 +213,26 @@ const infos = {
       <br>severely compromised visibility (close to none) and significant health hazards for everyone regardless of having pre-existing conditions.
  `,
  'Dust': `
- 
+      <b>DUST CONCENTRATION</b>
+      <br>Dust concentration refers to the amount of particles, such as mineral dust, pollen, or other particulate matter, suspended in the atmosphere. 
+      <br>It can originate from various sources including soil erosion, industrial activities, and natural phenomena like wildfires and volcanic eruptions.
+      
+      <br> - Super Low: 0-10 µg/m³: Normally observed in areas with minimal dust sources and calm weather conditions, resulting in clear skies and good air quality.
+      <br>
+      <br> - Low: 10-50 µg/m³: Common in regions with occasional dust events, such as mild winds, or light industrial activities, with minimal impact on air quality and visibility.
+      
+      <br> - Moderate: 50-100 µg/m³: Dust concentrations in this range suggest moderate dust activity, possibly from agricultural practices or local construction activities, 
+      <br>leading to slightly reduced air quality.
+      <br>
+      <br> - High: 100-200 µg/m³: Higher dust levels, like these, indicate significant dust emissions from sources such as construction sites, unpaved roads, or agricultural fields, 
+      <br>resulting in reduced visibility and potential health effects for sensitive individuals.
+      <br>
+      <br> - Very High: 200-500 µg/m³: Values exceeding 200 µg/m³ suggest very high dust concentrations, often associated with intense dust storms (an example could be the Dust Bowl),
+      <br>or large-scale construction projects, significantly impacting air quality and posing health risks to the general population.
+      <br>
+      <br> - Extremely High: >500 µg/m³: Although this range is quite rare, as mentioned before (Dust Bowl) these ranges have been seen before.
+      <br>Rare occurrences of dust concentrations exceeding 500 µg/m³ signify extremely high levels of airborne particles, likely due to severe dust storms, 
+      <br>volcanic eruptions, or industrial accidents, posing severe health hazards and requiring immediate action to mitigate exposure.
  `,
  'UV index': ``
 }
