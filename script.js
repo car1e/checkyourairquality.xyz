@@ -129,7 +129,13 @@ const infos = {
       <br> - Hazardous: >400 µg/m³ - Severe health risks. If exposed, you may experience: unconsciousness, poisoning, and even death. Stay inside and use air purifiers if available.
 
  `,
- 'Nitrogen dioxide': '',
+ 'Nitrogen dioxide': '
+      Nitrogen Dioxide (NO2): This is a gas mainly emitted from vehicles, power plants, and industrial facilities. 
+      <br>NO2 can irritate the respiratory system, decrease lung function/decrease your lung efficiency, and exacerbate respiratory conditions like asthma 
+      <br>(essentially, the effects of Nitrogen Dioxide are quite similar to the effects of particulate matter).
+      <br>
+      
+  ',
  'Sulphur dioxide': '',
  'Ozone': '',
  'Aerosol optical depth': '',
