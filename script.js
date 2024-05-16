@@ -110,8 +110,8 @@ const infos = {
  'Carbon monoxide': `
       <b>CARBON MONOXIDE</b>
 
-      <br>Carbon monoxide (CO) is a colorless, odorless gas that can be harmful to your health. 
-      <br>It interferes with the body's ability to transport oxygen, leading to serious health issues. 
+      <br>This colorless, odorless gas is emitted from vehicles and industrial processes. 
+      <br>It binds to hemoglobin in the blood, reducing its ability to carry oxygen, leading to symptoms like headaches, dizziness, and in high concentrations, can be lethal. 
       
       <br>Carbon monoxide particles can penetrate deep into the lungs and sometimes they even enter the bloodstream, which can cause respiratory and cardiovascular issues. 
       <br>Exposure to these particles for even a few days can be harmful, as it attaches to hemoglobin in the blood, which reduces the ability of blood to carry oxygen.
@@ -154,7 +154,7 @@ const infos = {
       <br> - Hazardous: >700 µg/m³: NO₂ levels exceeding 700 µg/m³ are extremely rare and usually associated with localized pollution sources, industrial accidents, or severe environmental conditions. 
       <br>These concentrations pose significant health risks and may trigger emergency responses, including evacuations and temporary shutdowns of industrial facilities.
   `,
- 'Sulphur dioxide': '
+ 'Sulphur dioxide': `
       <b>SULPHUR DIOXIDE</b>
       
       <br> Sulphur dioxide (SO2) is produced from burning fossil fuels. Mainly in industrial processes and power plants. It can irritate the respiratory system, leading to respiratory illnesses and 
@@ -172,11 +172,11 @@ const infos = {
       
       <br> - Hazardous: >500 µg/m³: Rare occurrences of SO₂ levels exceeding 500 µg/m³ may result from industrial accidents or severe environmental conditions, posing severe health risks.
 
-  ',
- 'Ozone': '',
- 'Aerosol optical depth': '',
- 'Dust': '',
- 'UV index': ''
+  `,
+ 'Ozone': ``,
+ 'Aerosol optical depth': ``,
+ 'Dust': ``,
+ 'UV index': ``
 }
 
 
