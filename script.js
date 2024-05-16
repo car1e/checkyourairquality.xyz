@@ -129,9 +129,7 @@ const infos = {
       <br> - Hazardous: >400 µg/m³ - Severe health risks. If exposed, you may experience: unconsciousness, poisoning, and even death. Stay inside and use air purifiers if available.
 
  `,
- 'Nitrogen dioxide': '
-
-  ',
+ 'Nitrogen dioxide': '',
  'Sulphur dioxide': '',
  'Ozone': '',
  'Aerosol optical depth': '',
