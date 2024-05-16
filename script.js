@@ -156,7 +156,7 @@ const infos = {
   `,
  'Sulphur dioxide': `
       <b>SULPHUR DIOXIDE</b>
-      <br>
+  
       <br> Sulphur dioxide (SO2) is produced from burning fossil fuels. Mainly in industrial processes and power plants. It can irritate the respiratory system, leading to respiratory illnesses and 
       <br>aggravating existing conditions like asthma and bronchitis (once again, these pollutants will always worsen pre-existing conditions such as asthma).
       <br>
@@ -175,6 +175,7 @@ const infos = {
   `,
  'Ozone': `
  <b>OZONE</b>
+
  <br>Ground-level ozone (O3) is formed when pollutants react with sunlight. It can cause respiratory issues like chest pain, coughing, and throat irritation. 
  <br>Long-term exposure may lead to decreased lung function and aggravate conditions like asthma and bronchitis. 
  <br>
@@ -194,7 +195,7 @@ const infos = {
  `,
  'Aerosol optical depth': `
       <b>AEROSOL OPTICAL DEPTH</b>
-      <br>
+ 
       <br>Aerosol optical depth (AOD) measures the extend to which aerosols in our atmosphere prevent the the transmission of light
       <br>by either absorbing it or scattering it. 
       <br>It serves as an indicator of air quality and can impact visibility, climate, and human health.
@@ -214,6 +215,7 @@ const infos = {
  `,
  'Dust': `
       <b>DUST CONCENTRATION</b>
+      
       <br>Dust concentration refers to the amount of particles, such as mineral dust, pollen, or other particulate matter, suspended in the atmosphere. 
       <br>It can originate from various sources including soil erosion, industrial activities, and natural phenomena like wildfires and volcanic eruptions.
       
@@ -234,7 +236,31 @@ const infos = {
       <br>Rare occurrences of dust concentrations exceeding 500 µg/m³ signify extremely high levels of airborne particles, likely due to severe dust storms, 
       <br>volcanic eruptions, or industrial accidents, posing severe health hazards and requiring immediate action to mitigate exposure.
  `,
- 'UV index': ``
+ 'UV index': `
+      <b>UV INDEX</b>
+      
+      <br>The UV index measures the strength of ultraviolet (UV) radiation from the sun that reaches the Earth's surface. 
+      <br>UV radiation is divided into different categories (UV-A, UV-B, and UV-C). UV-B is the most harmful to human health as it can cause sunburn and skin damage.
+      <br>One thing to note however, when I talk about sunburns, this is different for each person as everyone has different levels of Melanin in their bodies.
+      <br>I am using averages and generalizations to give a better idea.
+      <br>
+      <br> - Low: 0-2: Usually observed during early morning or late afternoon when the sun's angle is lower, resulting in minimal UV exposure and low risk of sunburn,
+      <br>as not much radiation is making contact with Earth.
+      <br>
+      <br> - Moderate: 3-5: Pretty common during midday hours, when the sun's radiation/rays are stronger. While moderate UV levels pose a low to moderate risk of sunburn for most people,
+      <br>cotinued exposure may still cause skin damage.
+      
+      <br> - High: 6-7: Elevated UV levels indicate significant sun exposure, especially around midday to noon. Extra precautions such as wearing sunscreen,
+      <br>sunglasses, and protective clothing are all great ideas and recommended to reduce the risk of sunburn and skin damage.
+      <br>
+      <br> - Very High: 8-10: Very high UV levels pose a high risk of sunburn and skin damage, even with short periods of exposure. 
+      <br>It's crucial to take protective measures and seek shade whenever possible, particularly during peak sun hours.
+      <br>Continued exposure to this amount of UV radiation increases the risk of skin-cancer, regardless of the amount of melanin you have.
+      
+      <br> - Extreme: 11+: Extreme UV levels signify an exceptionally high risk of sunburn and skin damage. 
+      <br>Outdoor activities should be minimized, and protective measures should be taken to prevent sunburn, such as seeking shade, wearing protective clothing, and applying sunscreen regularly.
+      <br>Even for those that have high amounts of Melanin, this amount of UV radiation is very dangerous.
+ `
 }
 
 
