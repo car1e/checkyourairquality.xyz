@@ -191,8 +191,29 @@ const infos = {
  <br>
  <br> - Hazardous: >200 µg/m³: Ozone levels rising above 200 µg/m³ is extremely rare, but may result from stagnant air masses, extreme heat, and high emissions of precursor pollutants, posing severe health risks.
  `,
- 'Aerosol optical depth': ``,
- 'Dust': ``,
+ 'Aerosol optical depth': `
+      <b>AEROSOL OPTICAL DEPTH</b>
+      <br>
+      <br>Aerosol optical depth (AOD) measures the extend to which aerosols in our atmosphere prevent the the transmission of light
+      <br>by either absorbing it or scattering it. 
+      <br>It serves as an indicator of air quality and can impact visibility, climate, and human health.
+      <br>
+      <br> - Super Low: 0-0.1: Typically observed in regions with minimal aerosol pollution and clear atmospheric conditions, allowing for excellent visibility and minimal impact on health.
+      <br>
+      <br> - Low: 0.1-0.3: This range is typically observed in small rural villages, resulting in good visibility and minimal health effects for the general population.
+      <br>
+      <br> - Moderate: 0.3-0.5: AOD values in this range indicate moderate aerosol pollution, which may slightly reduce visibility and pose minor health risks to sensitive individuals.
+      <br>
+      <br> - High: 0.5-1.0: These higher AOD values suggest significant aerosol pollution, leading to reduced visibility and potential health impacts for sensitive groups, particularly those with respiratory conditions.
+      <br>
+      <br> - Very High: 1.0-2.0: Values exceeding 1.0 indicate very high levels of aerosol pollution, severely impacting visibility and posing health risks to the general population.
+      <br>
+      <br> - Extremely High: >2.0: Rare occurrences of AOD values exceeding 2.0 signify incredibly high aerosol pollution levels, leading to 
+      <br>severely compromised visibility (close to none) and significant health hazards for everyone regardless of having pre-existing conditions.
+ `,
+ 'Dust': `
+ 
+ `,
  'UV index': ``
 }
 
