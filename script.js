@@ -155,7 +155,23 @@ const infos = {
       <br>These concentrations pose significant health risks and may trigger emergency responses, including evacuations and temporary shutdowns of industrial facilities.
   `,
  'Sulphur dioxide': '
-   
+      <b>SULPHUR DIOXIDE</b>
+      
+      <br> Sulphur dioxide (SO2) is produced from burning fossil fuels. Mainly in industrial processes and power plants. It can irritate the respiratory system, leading to respiratory illnesses and 
+      <br>aggravating existing conditions like asthma and bronchitis (once again, these pollutants will always worsen pre-existing conditions such as asthma).
+      
+      <br> - Super Safe: 0-20 µg/m³ <b>(micrograms per cubic meter)</b>: Typically found in areas with effective air quality management and minimal industrial activity.
+      
+      <br> - Safe: 20-50 µg/m³: This range is common in urban areas with moderate industrial and vehicular emissions, often compliant with air quality regulations.
+      
+      <br> - Moderate: 50-100 µg/m³: SO₂ concentrations in this range are more prevalent in densely populated urban areas with industrial activity and traffic.
+      
+      <br> - Unhealthy for Sensitive Groups: 100-350 µg/m³: While less common, this range may occur in areas with significant industrial emissions, posing risks to sensitive individuals.
+      
+      <br> - Very Unhealthy: 350-500 µg/m³: SO₂ levels exceeding 350 µg/m³ are relatively rare and usually associated with industrial activities or localized pollution sources.
+      
+      <br> - Hazardous: >500 µg/m³: Rare occurrences of SO₂ levels exceeding 500 µg/m³ may result from industrial accidents or severe environmental conditions, posing severe health risks.
+
   ',
  'Ozone': '',
  'Aerosol optical depth': '',
