@@ -84,14 +84,14 @@ const healthyRanges = {
 
 const infos = {
  'Particulate matter': `
-      PARTICULATE MATTER
+      <b>PARTICULATE MATTER</b>
       <br>
       These are very small and fine inhalable particles. <br>
       They have diameters that are usually 2.5 micrometers and sometimes they are even smaller. 
       <br>They can penetrate deep into the lungs and sometimes they even enter the bloodstream, which can cause respiratory and cardiovascular issues. 
       <br>Exposure to these particles for even a few days can cause heart disease
       <br>
-      <br> - Super Safe: 0-12 µg/m³ - considered excellent and pose minimal risk
+      <br> - Super Safe: 0-12 µg/m³ <b>(micrograms per cubic meter)</b> - considered excellent and pose minimal risk
       <br>
       <br> - Safe: 12-35 µg/m³ - considered acceptable according to most air quality standards
       <br>
@@ -108,7 +108,7 @@ const infos = {
       if you have a pre-existing condition or not, should leave their houses. If you have air purifiers, use them. 
  `,
  'Carbon monoxide': `
-      CARBON MONOXIDE
+      <b>CARBON MONOXIDE</b>
 
       <br>Carbon monoxide (CO) is a colorless, odorless gas that can be harmful to your health. 
       <br>It interferes with the body's ability to transport oxygen, leading to serious health issues. 
@@ -116,7 +116,7 @@ const infos = {
       <br>Carbon monoxide particles can penetrate deep into the lungs and sometimes they even enter the bloodstream, which can cause respiratory and cardiovascular issues. 
       <br>Exposure to these particles for even a few days can be harmful, as it attaches to hemoglobin in the blood, which reduces the ability of blood to carry oxygen.
       <br>
-      <br> - Super Safe: 0-10 µg/m³ - Excellent air quality with no/minimal risk to health.
+      <br> - Super Safe: 0-10 µg/m³ <b>(micrograms per cubic meter)</b> - Excellent air quality with no/minimal risk to health.
       <br>
       <br> - Safe: 10-35 µg/m³ - Acceptable levels according to most air quality standards; little to no health impact for the general population.
       <br>
@@ -130,13 +130,33 @@ const infos = {
 
  `,
  'Nitrogen dioxide': `
-      NITROGEN DIOXIDE
+      <b>NITROGEN DIOXIDE</b>
       <br>This is a gas mainly emitted from vehicles, power plants, and industrial facilities. 
       <br>NO2 can irritate the respiratory system, decrease lung function/decrease your lung efficiency, and exacerbate respiratory conditions like asthma 
       <br>(essentially, the effects of Nitrogen Dioxide are quite similar to the effects of particulate matter).
-      <br>
+      
+      <br> - Super Safe: 0-20 µg/m³ <b>(micrograms per cubic meters)</b>: In areas with effective air quality management and low levels of vehicular traffic and industrial activity, it's more common to find NO₂ concentrations within this range. 
+      <br>These areas may include suburban or rural locations with fewer sources of pollution.
+      
+      <br> - Safe: 20-40 µg/m³: This range is still relatively common in urban areas with moderate traffic and industrial emissions. 
+      <br>While NO₂ levels may occasionally exceed 20 µg/m³, they often remain below 40 µg/m³, especially in regions with stricter air quality regulations and pollution control measures.
+      
+      <br> - Moderate: 40-100 µg/m³: NO₂ concentrations in this range are more common in densely populated urban areas with heavy traffic congestion and industrial activities. 
+      <br>Locations near major roadways, busy intersections, or industrial zones may frequently experience NO₂ levels within this range, especially during peak traffic hours and under certain weather conditions like temperature inversions.
+      
+      <br> - Unhealthy for Sensitive Groups: 100-200 µg/m³: While this range is lower than most others, NO₂ levels in this range may occur in urban areas with a lot vehicular traffic and industrial emissions, 
+      <br>particularly in regions with poor air quality management (such as Tarvisio). People living near major highways or industrial facilities may experience NO₂ concentrations in this range more frequently.
+      
+      <br> - Very Unhealthy: 200-700 µg/m³: NO₂ concentrations exceeding 200 µg/m³ are relatively rare and typically occur during episodes of severe air pollution, 
+      <br>such as high traffic congestion combined with adverse weather conditions like stagnant air masses or temperature inversions. 
+      <br>These conditions can lead to the accumulation of pollutants, including NO₂, resulting in short-term spikes in concentration levels.
+      
+      <br> - Hazardous: >700 µg/m³: NO₂ levels exceeding 700 µg/m³ are extremely rare and usually associated with localized pollution sources, industrial accidents, or severe environmental conditions. 
+      <br>These concentrations pose significant health risks and may trigger emergency responses, including evacuations and temporary shutdowns of industrial facilities.
   `,
- 'Sulphur dioxide': '',
+ 'Sulphur dioxide': '
+   
+  ',
  'Ozone': '',
  'Aerosol optical depth': '',
  'Dust': '',
