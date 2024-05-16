@@ -249,14 +249,14 @@ const infos = {
       <br>
       <br> - Moderate: 3-5: Pretty common during midday hours, when the sun's radiation/rays are stronger. While moderate UV levels pose a low to moderate risk of sunburn for most people,
       <br>cotinued exposure may still cause skin damage.
-      
+      <br>
       <br> - High: 6-7: Elevated UV levels indicate significant sun exposure, especially around midday to noon. Extra precautions such as wearing sunscreen,
       <br>sunglasses, and protective clothing are all great ideas and recommended to reduce the risk of sunburn and skin damage.
       <br>
       <br> - Very High: 8-10: Very high UV levels pose a high risk of sunburn and skin damage, even with short periods of exposure. 
       <br>It's crucial to take protective measures and seek shade whenever possible, particularly during peak sun hours.
       <br>Continued exposure to this amount of UV radiation increases the risk of skin-cancer, regardless of the amount of melanin you have.
-      
+      <br>
       <br> - Extreme: 11+: Extreme UV levels signify an exceptionally high risk of sunburn and skin damage. 
       <br>Outdoor activities should be minimized, and protective measures should be taken to prevent sunburn, such as seeking shade, wearing protective clothing, and applying sunscreen regularly.
       <br>Even for those that have high amounts of Melanin, this amount of UV radiation is very dangerous.
