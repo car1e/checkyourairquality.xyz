@@ -108,7 +108,26 @@ const infos = {
       if you have a pre-existing condition or not, should leave their houses. If you have air purifiers, use them. 
  `,
  'Carbon monoxide': `
-  
+      ### CARBON MONOXIDE PARTICLES
+
+Carbon monoxide (CO) is a colorless, odorless gas that can be harmful to your health. 
+<br>It interferes with the body's ability to transport oxygen, leading to serious health issues. 
+
+<br>They can penetrate deep into the lungs and sometimes they even enter the bloodstream, which can cause respiratory and cardiovascular issues. 
+<br>Exposure to these particles for even a few days can cause heart disease.
+<br>
+<br> - Super Safe: 0-10 µg/m³ - Excellent air quality with minimal risk to health.
+<br>
+<br> - Safe: 10-35 µg/m³ - Acceptable levels according to most air quality standards; little to no health impact for the general population.
+<br>
+<br> - Moderate: 35-50 µg/m³ - Can pose health concerns, particularly for sensitive individuals such as those with respiratory or heart conditions.
+<br>
+<br> - Unhealthy for Sensitive Groups: 50-200 µg/m³ - Elders and people with pre-existing conditions should limit outdoor activities and consider using masks.
+<br>
+<br> - Very Unhealthy: 200-400 µg/m³ - Significant health risks for everyone, not just those with pre-existing conditions. Outdoor activities should be avoided unless absolutely necessary.
+<br>
+<br> - Hazardous: >400 µg/m³ - Severe health risks including potential for unconsciousness, poisoning, and even death. Stay indoors and use air purifiers if available.
+
  `,
  'Nitrogen dioxide': '',
  'Sulphur dioxide': '',
