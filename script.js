@@ -134,46 +134,63 @@ const infos = {
       <br>This is a gas mainly emitted from vehicles, power plants, and industrial facilities. 
       <br>NO2 can irritate the respiratory system, decrease lung function/decrease your lung efficiency, and exacerbate respiratory conditions like asthma 
       <br>(essentially, the effects of Nitrogen Dioxide are quite similar to the effects of particulate matter).
-      
+      <br>
       <br> - Super Safe: 0-20 µg/m³ <b>(micrograms per cubic meters)</b>: In areas with effective air quality management and low levels of vehicular traffic and industrial activity, it's more common to find NO₂ concentrations within this range. 
       <br>These areas may include suburban or rural locations with fewer sources of pollution.
-      
+      <br>
       <br> - Safe: 20-40 µg/m³: This range is still relatively common in urban areas with moderate traffic and industrial emissions. 
       <br>While NO₂ levels may occasionally exceed 20 µg/m³, they often remain below 40 µg/m³, especially in regions with stricter air quality regulations and pollution control measures.
-      
+      <br>
       <br> - Moderate: 40-100 µg/m³: NO₂ concentrations in this range are more common in densely populated urban areas with heavy traffic congestion and industrial activities. 
       <br>Locations near major roadways, busy intersections, or industrial zones may frequently experience NO₂ levels within this range, especially during peak traffic hours and under certain weather conditions like temperature inversions.
-      
+      <br>
       <br> - Unhealthy for Sensitive Groups: 100-200 µg/m³: While this range is lower than most others, NO₂ levels in this range may occur in urban areas with a lot vehicular traffic and industrial emissions, 
       <br>particularly in regions with poor air quality management (such as Tarvisio). People living near major highways or industrial facilities may experience NO₂ concentrations in this range more frequently.
-      
+      <br>
       <br> - Very Unhealthy: 200-700 µg/m³: NO₂ concentrations exceeding 200 µg/m³ are relatively rare and typically occur during episodes of severe air pollution, 
       <br>such as high traffic congestion combined with adverse weather conditions like stagnant air masses or temperature inversions. 
       <br>These conditions can lead to the accumulation of pollutants, including NO₂, resulting in short-term spikes in concentration levels.
-      
+      <br>
       <br> - Hazardous: >700 µg/m³: NO₂ levels exceeding 700 µg/m³ are extremely rare and usually associated with localized pollution sources, industrial accidents, or severe environmental conditions. 
       <br>These concentrations pose significant health risks and may trigger emergency responses, including evacuations and temporary shutdowns of industrial facilities.
   `,
  'Sulphur dioxide': `
       <b>SULPHUR DIOXIDE</b>
-      
+      <br>
       <br> Sulphur dioxide (SO2) is produced from burning fossil fuels. Mainly in industrial processes and power plants. It can irritate the respiratory system, leading to respiratory illnesses and 
       <br>aggravating existing conditions like asthma and bronchitis (once again, these pollutants will always worsen pre-existing conditions such as asthma).
-      
+      <br>
       <br> - Super Safe: 0-20 µg/m³ <b>(micrograms per cubic meter)</b>: Typically found in areas with effective air quality management and minimal industrial activity.
-      
+      <br>
       <br> - Safe: 20-50 µg/m³: This range is common in urban areas with moderate industrial and vehicular emissions, often compliant with air quality regulations.
-      
+      <br>
       <br> - Moderate: 50-100 µg/m³: SO₂ concentrations in this range are more prevalent in densely populated urban areas with industrial activity and traffic.
-      
+      <br>
       <br> - Unhealthy for Sensitive Groups: 100-350 µg/m³: While less common, this range may occur in areas with significant industrial emissions, posing risks to sensitive individuals.
-      
+      <br>
       <br> - Very Unhealthy: 350-500 µg/m³: SO₂ levels exceeding 350 µg/m³ are relatively rare and usually associated with industrial activities or localized pollution sources.
-      
+      <br>
       <br> - Hazardous: >500 µg/m³: Rare occurrences of SO₂ levels exceeding 500 µg/m³ may result from industrial accidents or severe environmental conditions, posing severe health risks.
 
   `,
- 'Ozone': ``,
+ 'Ozone': `
+ <b>OZONE</b>
+ <br>Ground-level ozone (O3) is formed when pollutants react with sunlight. It can cause respiratory issues like chest pain, coughing, and throat irritation. 
+ <br>Long-term exposure may lead to decreased lung function and aggravate conditions like asthma and bronchitis. 
+ <br>
+ <br> - Super Safe: 0-20 µg/m³ <b>(micrograms per cubic meter)</b>: This range is quite common in places that aren't hot and do well at maintaining good air quality.
+ <br>
+ <br> - Safe: 20-50 µg/m³: This range is common in urban areas with moderate industrial and vehicular emissions, and that are relatively hot.
+ <br>
+ <br> - Moderate: 50-100 µg/m³: Ozone concentrations like these are much more common in hot environments that contain a lot of other air pollutants, such as nitrogen dioxide.
+ <br>
+ <br> - Unhealthy for Sensitive Groups: 100-150 µg/m³: This range is uncommon but still occurs from time to time. 
+ <br>This range may occur in areas with significant industrial emissions, posing risks to sensitive individuals.
+ <br>
+ <br> - Very Unhealthy: 150-200 µg/m³: Ozone levels exceeding 150 µg/m³ are pretty rare and are usually associated with higher temperatures and sunlight.
+ <br>
+ <br> - Hazardous: >200 µg/m³: Ozone levels rising above 200 µg/m³ is extremely rare, but may result from stagnant air masses, extreme heat, and high emissions of precursor pollutants, posing severe health risks.
+ `,
  'Aerosol optical depth': ``,
  'Dust': ``,
  'UV index': ``
